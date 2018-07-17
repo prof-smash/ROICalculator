@@ -1,0 +1,10 @@
+C:\Users\Lance\Documents\Visual Studio 2017\Projects\ROICalculator\ROICalculator\bin\Debug\ROICalculator.exe.config
+C:\Users\Lance\Documents\Visual Studio 2017\Projects\ROICalculator\ROICalculator\bin\Debug\ROICalculator.exe
+C:\Users\Lance\Documents\Visual Studio 2017\Projects\ROICalculator\ROICalculator\bin\Debug\ROICalculator.pdb
+C:\Users\Lance\Documents\Visual Studio 2017\Projects\ROICalculator\ROICalculator\obj\Debug\ROICalculator.csprojAssemblyReference.cache
+C:\Users\Lance\Documents\Visual Studio 2017\Projects\ROICalculator\ROICalculator\obj\Debug\ROICalculator.Form1.resources
+C:\Users\Lance\Documents\Visual Studio 2017\Projects\ROICalculator\ROICalculator\obj\Debug\ROICalculator.Properties.Resources.resources
+C:\Users\Lance\Documents\Visual Studio 2017\Projects\ROICalculator\ROICalculator\obj\Debug\ROICalculator.csproj.GenerateResource.cache
+C:\Users\Lance\Documents\Visual Studio 2017\Projects\ROICalculator\ROICalculator\obj\Debug\ROICalculator.csproj.CoreCompileInputs.cache
+C:\Users\Lance\Documents\Visual Studio 2017\Projects\ROICalculator\ROICalculator\obj\Debug\ROICalculator.exe
+C:\Users\Lance\Documents\Visual Studio 2017\Projects\ROICalculator\ROICalculator\obj\Debug\ROICalculator.pdb
